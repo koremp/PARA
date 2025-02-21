@@ -1,6 +1,6 @@
 # PARA
 
-Project
-Area
-Resource
-Archive
+- Project
+- Area
+- Resource
+- Archive
